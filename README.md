@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Data Science and Machine Learning Algorithms
+- 🌱 I’m currently learning Time Series Forecasting
+- 💬 Ask me about your next book
+- 📫 How to reach me: r.coletto01@gmail.com
+- 😄 Pronouns: she/her
+
 <!--
 **ColettoR/ColettoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
