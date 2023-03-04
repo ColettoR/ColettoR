@@ -102,6 +102,4 @@ class pdf_template():
                                   fontSize=18,
                                   fontName=font_name_bold))
         
-        return styles
-
-        
+        return styles     
